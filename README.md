@@ -4,6 +4,9 @@
 
 ![1721712829462_ pic](https://github.com/xchuan93/FlngerDetecAndCalSize/assets/30464017/48a96b58-2123-46e3-a347-965f359c15b0)
 
+训练模型为：
+fingerSize.mlmodel
+
 识别结果如下：
 
 ![1741712886828_ pic](https://github.com/xchuan93/FlngerDetecAndCalSize/assets/30464017/1b4a00f5-4a84-4ceb-ab9d-e585b5f6b078)
